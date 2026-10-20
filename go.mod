@@ -10,11 +10,11 @@ require (
 	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/onsi/ginkgo v1.16.4
 	github.com/onsi/gomega v1.15.0
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
 	go.uber.org/goleak v1.1.10
 	go.uber.org/zap v1.19.0
-	golang.org/x/sys v0.0.0-20210817190340-bfb29a6856f2
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	gomodules.xyz/jsonpatch/v2 v2.2.0
 	google.golang.org/appengine v1.6.7 // indirect
